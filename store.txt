@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Store Changed Practicing Stashed
+=======
+Store 1 is added. By Shakir
+>>>>>>> 491cdb0b834bb1ddf22da0f3fc0087bc24fa0497
